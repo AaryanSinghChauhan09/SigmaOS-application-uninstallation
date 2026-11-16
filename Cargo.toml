@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-application-uninstallation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS application-uninstallation component - deployment"
+
+[lib]
+name = "application_uninstallation"
+path = "src/lib.rs"
