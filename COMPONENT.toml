@@ -3,7 +3,7 @@ name = "SigmaOS-application-uninstallation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "application-uninstallation component"
+description = "Application Uninstallation"
 upstream = []
 
 [contract]
